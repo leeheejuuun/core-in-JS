@@ -31,11 +31,11 @@
 
 ## 📌 스터디 주제
 
-[1장 데이터 타입](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220914%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)</br>
-[2장 실행 컨텍스트](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220915%20%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)</br>
-[3장 this](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220919%20this.md)</br>
-[4장 콜백함수](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220921%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md)</br>
-[5장 클로저](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220923%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)</br>
-[6장 프로토타입](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220929%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)</br>
-[7장 클래스](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220930%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+1장 [데이터 타입](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220914%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)</br>
+2장 [실행 컨텍스트](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220915%20%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)</br>
+3장 [this](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220919%20this.md)</br>
+4장 [콜백함수](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220921%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md)</br>
+5장 [클로저](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220923%20%ED%81%B4%EB%A1%9C%EC%A0%80.md)</br>
+6장 [프로토타입](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220929%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)</br>
+7장 [클래스](https://github.com/leeheejuuun/core-in-JS/blob/main/heejun/220930%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
